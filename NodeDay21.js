@@ -22,8 +22,8 @@ function diviser(num1, num2) {
 }
 
 // Example usage
-console.log("Addition:", ajouter(5, 3));
-console.log("Subtraction:", soustraire(10, 4));
-console.log("Multiplication:", multiplier(7, 2));
-console.log("Division:", diviser(20, 5));
+console.log("Addition:", ajouter(4, 8));
+console.log("Subtraction:", soustraire(28, 9));
+console.log("Multiplication:", multiplier(4, 7));
+console.log("Division:", diviser(30, 6));
 console.log("Division by zero:", diviser(10, 0));
